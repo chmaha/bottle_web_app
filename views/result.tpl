@@ -11,7 +11,7 @@
     </style>
     <body>
         <h3>Result:</h3>
-        <pre>{{pretty_whois}}</pre>
+        <pre>{{output}}</pre>
         <input type="button" value="Return to previous page" onclick="history.back()"/> 
     </body>
 </html>
